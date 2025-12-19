@@ -1,6 +1,6 @@
 # SCD41 Sensor Display System
 
-This repository contains embedded C firmware for interfacing a **Sensirion SCD41 CO₂ / temperature / humidity sensor** with a microcontroller and displaying the measured values on a **character/serial LCD**. The project uses **HAL-based abstractions** to keep the sensor and display drivers portable across hardware platforms.
+This repository contains embedded C firmware for interfacing a **Sensirion SCD41** CO₂ / temperature / humidity sensor** with an **AVR128DB48** microcontroller and displaying the measured values on a **SerLCD**. The project uses **HAL-based abstractions** to keep the sensor and display drivers portable across hardware platforms.
 
 ---
 
