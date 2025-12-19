@@ -61,9 +61,7 @@ CO2:  421 ppm
 Temp: 24.1 C
 Humi: 46.3 %
 ```
-[![SCD41 Sensor Display Demo](demo.mp4)
-
----
+[![SCD41 Sensor Display Demo](demo.jpg)](demo.mp4)
 
 ## HAL Design
 
